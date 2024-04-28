@@ -20,7 +20,7 @@ O resultado deve ser apresentado com uma casa decimal.
 |     6.0 4.0 2.1    | Perimetro = 12.1 |
 -----------------------------------------
 
-CÓDIGO
+RESOLUÇÃO DO DESAFIO
 
 lados = [float(x) for x in input().split()]
 
