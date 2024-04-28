@@ -1,1 +1,1 @@
-# desafios-codigo-dio-python
+Este repositório foi criado com o intuito de salvar os desafios realizados em Bootcamps realizados por mim na plataforma da DIO, onde foram oferecidos desafios para soluções em Python. Para cada Bootcamp será criada uma pasta organizada com cada um. 
